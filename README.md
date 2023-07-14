@@ -7,7 +7,7 @@
 
 - 📫 Como llegar a mi **felipeignacio.fibl@gmail.com**
 
-- 📄 Conoce mis experiencias [http://fecoder.herokuapp.com/](http://fecoder.herokuapp.com/)
+
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
