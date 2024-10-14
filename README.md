@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋,Yo Soy Felipe</h1>
-<h3 align="center">Estudiante de Ingeniería Civil en Informática apasionado por la programación de software</h3>
+<h1 align="center">Hola 👋 Soy Felipe</h1>
+<h3 align="center">Ingeniero Civil en Informática apasionado por la programación de software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaditcuber&label=Profile%20views&color=0e75b6&style=flat" alt="shaditcuber" /> </p>
 
