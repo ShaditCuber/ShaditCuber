@@ -1,9 +1,6 @@
 <!-- Paleta neon: cian 00F0FF · magenta FF2BD6 · violeta 7B2FFF · verde 39FF14 · fondo 0D0B2A -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7b2fff&height=140&section=header" width="100%" alt="" />
-
 <p align="center">
-  <img src="fondo.jpeg" alt="Felipe programando en su setup pixel art" width="720" />
+  <img src="fondo.jpeg" alt="Felipe programando en su setup pixel art" width="500" />
 </p>
 
 <h1 align="center">Hola 👋 Soy Felipe</h1>
